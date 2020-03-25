@@ -1,0 +1,39 @@
+body{
+    background-color: #DBDBDA !important;
+}
+.nav{
+    background-color: #353A40;
+    border-radius: 0px !important;
+    margin-bottom: 0px !important;
+}
+.carousel-item img{
+height: 400px;
+}
+.next-icon{
+    width: 45px;
+    height: 45px;
+    background-color: #525252;
+    border-radius: 12px;
+    top: 50%;
+}
+.container{
+    margin: 20px 100px !important;
+}
+.container img{
+    height: 185px;
+}
+.row{
+    align-items: center;
+}
+.row-element{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.row div{
+    padding: 0px 60px;
+    display: flex;
+    flex: 1;
+}
+.quantite-label{
+    padding: 0px 8px;
+}
